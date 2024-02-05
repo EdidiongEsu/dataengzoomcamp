@@ -15,3 +15,4 @@ serving_dir
 **/.terraform/*
 *.gpg
 *.json
+*variables.tf
