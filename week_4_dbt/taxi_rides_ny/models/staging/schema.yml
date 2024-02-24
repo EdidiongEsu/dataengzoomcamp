@@ -112,7 +112,7 @@ models:
         Yellow taxis are the only vehicles permitted to respond to a street hail from a passenger in all five
         boroughs. They may also be hailed using an e-hail app like Curb or Arro.
         The records were collected and provided to the NYC Taxi and Limousine Commission (TLC) by
-        technology service providers. 
+        technology service provider.
       columns:
           - name: tripid
             description: Primary key for this table, generated with a concatenation of vendorid+pickup_datetime
