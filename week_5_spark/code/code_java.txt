@@ -6,3 +6,5 @@ export PATH="${SPARK_HOME}/bin:${PATH}"
 
 export PYTHONPATH="${SPARK_HOME}/python/lib/py4j-0.10.9.5-src.zip:$PYTHONPATH"
 export PYTHONPATH="${SPARK_HOME}/python/:$PYTHONPATH"
+
+gcloud compute scp google_credential.json x@dezoomcamp:dataengzoomcamp
